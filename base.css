@@ -1,0 +1,21 @@
+/*Typogrpahy*/
+    h1,h2, body {
+    font-family: sans-serif;
+    }
+
+
+/*Positioning*/
+
+    body {
+    margin:3em;
+    color: #252554;
+    background-color: #FFE1FF
+    }
+
+    a {
+        color: #0051ff;
+    }
+    
+    li {
+    line-height: 1.5;
+    }
