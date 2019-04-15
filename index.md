@@ -5,6 +5,11 @@ layout: default
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](another-page).
+/combining-efforts.html
+[Link to combining efforts](combining-efforts.html).
+
+
+
 
 There should be whitespace between paragraphs.
 
